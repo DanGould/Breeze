@@ -38,7 +38,7 @@ sudo npm install -g @angular/cli
 
 ## To build for development
 
-- **in a terminal window** -> npm start
+- **in a terminal window** -> `npm start`
 This will compile the Angular code and spawn the Electron process in parallel.
 After compilation has completed the Electron UI will refresh.
 
